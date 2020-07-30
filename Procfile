@@ -1,1 +1,1 @@
-web: gunicorn wiki-cs50.wsgi --log-file -
+web: gunicorn wiki-cs50.wsgi
