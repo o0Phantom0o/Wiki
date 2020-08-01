@@ -1,1 +1,1 @@
-web: gunicorn wiki-cs50.wsgi
+web: gunicorn wiki.wsgi
